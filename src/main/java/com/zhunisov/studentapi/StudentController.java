@@ -23,7 +23,7 @@ public class StudentController {
         return Map.of(
             "application", "zhunisov-gabit-student-api",
             "student", "Zhunisov Gabit",
-            "version", "1.0"
+            "version", "1.1"
         );
     }
 
