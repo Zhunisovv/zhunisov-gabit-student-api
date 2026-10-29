@@ -8,6 +8,6 @@ class StudentInfoTest {
     @Test
     void infoContainsStudentName() {
         StudentController controller = new StudentController(null);
-        assertEquals("Incorrect Name", controller.info().get("student"));
+        assertEquals("Zhunisov Gabit", controller.info().get("student"));
     }
 }
