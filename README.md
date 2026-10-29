@@ -18,3 +18,4 @@ GET /api/info displays the application name, author and version.
 Jenkins checks this branch every minute using Poll SCM.
 New commits automatically trigger Build, Test, Docker Build and Verify.
 CI builds and tests changes. CD extends this to delivery or deployment.
+Automatic trigger verification for Zhunisov Gabit.
