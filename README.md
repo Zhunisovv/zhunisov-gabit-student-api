@@ -1,4 +1,4 @@
-# Zhunisov Gabit Student API
+# Zhunisov Gabit Student API - Main version
 
 Student: Zhunisov Gabit
 Course: DevOps
